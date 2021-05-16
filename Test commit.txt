@@ -1,1 +1,1 @@
-This is my first commit. Juts testing the git commands
+This is my first commit. Just testing the git commands. Modified
